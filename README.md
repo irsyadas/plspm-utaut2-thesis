@@ -1,4 +1,4 @@
-# Partial Least Square - Path Modelling Analysis in R with plspm package
+# Partial Least Square - Path Modelling Analysis in R with plspm Package
 PLS-PM analysis based on my final thesis dataset for Bachelor Degree of Management in Universitas Jenderal Soedirman.
 
 ## Thesis Background
