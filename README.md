@@ -4,4 +4,4 @@ PLS-PM analysis based on my final thesis dataset for Bachelor Degree of Manageme
 ## Libraries
 Install these respective packages on R:
 1. readxl
-2. plspm
+2. plspm (Thanks to gastonstat/plspm)
