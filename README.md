@@ -5,7 +5,7 @@ PLS-PM analysis based on my final thesis dataset for Bachelor Degree of Manageme
 My thesis entitled by "User Acceptance on Mobile Payment OVO Users (Case Study in Purwokerto, Central Java, Indonesia)". As for theoritical background, I mainly choose Unified Theory of Acceptance and Use of Technology 2 (UTAUT2).
 
 ## Variable Description
-1. AGE = Age as Categorical Variable for each observation
+1. AGE = Age as categorical variable for each observation
 2. PE = Performance Expectancy
 3. EE = Effort Expectancy
 4. FC = Facilitating Conditions
